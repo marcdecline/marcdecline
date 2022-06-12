@@ -15,23 +15,49 @@ td, th {
 </tr>
 <tr>
 <td>
-
-   _My two little monsters_
-  
-  ![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
-
-</td>
-<td>
-
+   
 - 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
 
 - 💻 Typescript/Javascript, Angular, React, NodeJS, Express, Sequelize, PostgreSQL, Symfonyt, Python, Django.
 
 - 📘 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
 
+
+</td>
+<td>
+
+_My two little monsters_
+
+![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
+
 </td>
 </tr>
 </table>
+
+
+---
+output: html_document
+---
+
+:::: {style="display: flex;"}
+
+::: {}
+Here is the **first** Div.
+
+```{r}
+str(iris)
+```
+:::
+
+::: {}
+And this block will be put on the right:
+
+```{r}
+plot(iris[, -5])
+```
+:::
+
+::::
 
 <br />
 
