@@ -1,7 +1,12 @@
 # Hi 👋, I'm Marc
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
-<div class="pull-left">
+<style>
+td, th {
+   border: none!important;
+   background: none;
+}
+</style>
 
 <table>
 <tr>
@@ -11,7 +16,7 @@
 <tr>
 <td>
 
-  ### My two little monsters
+   _My two little monsters_
   
   ![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
 
