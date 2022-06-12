@@ -2,29 +2,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
 <div class="pull-left">
-  
 
-  
-</div>
-<div class="pull-right">
-  
+<table>
+<tr>
+<th>  </th>
+<th>  </th>
+</tr>
+<tr>
+<td>
+
   ### My two little monsters
   
   ![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
-  
-</div>
 
+</td>
+<td>
 
-<div class="pull-left">
-  
 - 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
 
 - 💻 Typescript/Javascript, Angular, React, NodeJS, Express, Sequelize, PostgreSQL, Symfonyt, Python, Django.
 
 - 📘 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
-  
-</div>
 
+</td>
+</tr>
+</table>
 
 <br />
 
