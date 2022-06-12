@@ -1,8 +1,7 @@
 # Hi 👋, I'm Marc
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
-<img src="https://i.ibb.co/YWKjxRs/samus.gif" width="576" height="640" />
-
+![Sam and Mus]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.ibb.co/YWKjxRs/samus.gif))
 
 
 - 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
