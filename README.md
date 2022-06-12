@@ -1,20 +1,10 @@
 # Hi 👋, I'm Marc
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
-<style>
-td, th {
-   border: none!important;
-   background: none;
-}
-</style>
 
-<table>
-<tr>
-<th>  </th>
-<th>  </th>
-</tr>
-<tr>
-<td>
+<img align="right" src="https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif" width="300" height="auto" />
+
+
    
 - 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
 
@@ -22,34 +12,6 @@ td, th {
 
 - 📘 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
 
-
-</td>
-<td>
-
-_My two little monsters_
-
-![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
-
-</td>
-</tr>
-</table>
-
-
-|||---|||
-#### Columns
-
-can save space.
-
-#### Prettify
-
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||
 
 <br />
 
