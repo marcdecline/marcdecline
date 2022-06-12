@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; - 🐕 And the most important thing, these two little monsters on the left are Mus and Sam.
 
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ## Contact Me
 
