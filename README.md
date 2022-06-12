@@ -1,13 +1,13 @@
 # Hi 👋, I'm Marc
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
-<img src="https://media4.giphy.com/media/drAtUGj803g4SYX3oZ/giphy.gif" width="40" height="40" />
+<img src="https://media4.giphy.com/media/drAtUGj803g4SYX3oZ/giphy.gif" width="200" height="auto" />
 
 - 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
 
-- 💻 Typescript/Javascript, Angular, React, NodeJS, Express, Sequelize, PostgreSQL, Symfony.
+- 💻 Typescript/Javascript, Angular, React, NodeJS, Express, Sequelize, PostgreSQL, Symfonyt, Python, Django.
 
-- 📘 I'm currently studing Computer Science at [Universidad Nacional del Litoral](https://www.unl.edu.ar/carreras/ingenieria-en-informatica/)
+- 📘 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
 
 <br />
 
