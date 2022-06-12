@@ -34,30 +34,22 @@ _My two little monsters_
 </tr>
 </table>
 
----
-output: html_document
----
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
+|||---|||
+#### Columns
 
-::: {}
+can save space.
 
-```{r}
-head(iris)
-```
+#### Prettify
 
+the page layout.
 
-:::
+*** promo
+#### Can be
 
-::: {}
-
-```{r}
-plot(iris)
-```
-
-:::
-
-::::
+trendy.
+***
+|||---|||
 
 <br />
 
