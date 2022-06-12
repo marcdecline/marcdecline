@@ -1,7 +1,7 @@
 # Hi 👋, I'm Marc
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=17&multiline=true&lines=Btw%2C+I+use+Arch)](https://git.io/typing-svg)
 
-<img align="right" src="https://i.ibb.co/YWKjxRs/samus.gif" width="576" height="640" />
+<img src="https://i.ibb.co/YWKjxRs/samus.gif" width="576" height="640" />
 
 
 
