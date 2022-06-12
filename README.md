@@ -3,16 +3,26 @@
 
 <div class="pull-left">
   
-  - 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
+
+  
+</div>
+<div class="pull-right">
+  
+  ### My two little monsters
+  
+  ![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
+  
+</div>
+
+
+<div class="pull-left">
+  
+- 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
 
 - 💻 Typescript/Javascript, Angular, React, NodeJS, Express, Sequelize, PostgreSQL, Symfonyt, Python, Django.
 
 - 📘 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
   
-</div>
-<div class="pull-right">
-  ### My two little monsters
-  ![Sam and Mus](https://github.com/marcdecline/marcdecline/blob/main/97bdf2cc-b111-4747-8385-ded347c4fd8c.gif)
 </div>
 
 
