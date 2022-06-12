@@ -6,11 +6,11 @@
 
 
    
-- 🔭 Working in personal projects with Typescript, Express, React, Angular and Firebase
+- 🔭 Working in personal projects
 
-- 💻 Typescript/Javascript, Angular, React, NodeJS, Express, Sequelize, PostgreSQL, Symfonyt, Python, Django.
+- 🫰 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
 
-- 📘 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
+- 💼 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
 
 
 <br />
