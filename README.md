@@ -6,11 +6,15 @@
 
 
    
-&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 Working in personal projects
+&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 Working in personal projects.
 
 &nbsp;&nbsp;&nbsp;&nbsp; - 🫰 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
 
 &nbsp;&nbsp;&nbsp;&nbsp; - 💼 I am currently working as a senior developer at [Güell Consulting](https://www.guellconsulting.com/)
+
+&nbsp;&nbsp;&nbsp;&nbsp; - 🐧 Active collaborator at OSF.
+
+&nbsp;&nbsp;&nbsp;&nbsp; - 🐕 And the most important thing, these two little monsters on the left are Mus and Sam.
 
 
 <br /><br /><br /><br /><br /><br />
