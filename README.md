@@ -6,11 +6,11 @@
 
 
    
-- 🔭 Working in personal projects
+&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 Working in personal projects
 
-- 🫰 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
+&nbsp;&nbsp;&nbsp;&nbsp; - 🫰 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
 
-- 💼 I am currently working as a senior developer at [Güell Consulting](https://www.guellconsulting.com/)
+&nbsp;&nbsp;&nbsp;&nbsp; - 💼 I am currently working as a senior developer at [Güell Consulting](https://www.guellconsulting.com/)
 
 
 <br /><br /><br /><br /><br /><br />
