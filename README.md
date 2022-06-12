@@ -34,27 +34,27 @@ _My two little monsters_
 </tr>
 </table>
 
-
 ---
 output: html_document
 ---
 
-:::: {style="display: flex;"}
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
 
 ::: {}
-Here is the **first** Div.
 
 ```{r}
-str(iris)
+head(iris)
 ```
+
+
 :::
 
 ::: {}
-And this block will be put on the right:
 
 ```{r}
-plot(iris[, -5])
+plot(iris)
 ```
+
 :::
 
 ::::
