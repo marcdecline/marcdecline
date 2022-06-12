@@ -10,7 +10,7 @@
 
 - 🫰 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
 
-- 💼 I am currently working as a developer at [Güell Consulting](https://www.guellconsulting.com/)
+- 💼 I am currently working as a senior developer at [Güell Consulting](https://www.guellconsulting.com/)
 
 
 <br /><br /><br /><br />
