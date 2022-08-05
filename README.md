@@ -8,9 +8,9 @@
    
 &nbsp;&nbsp;&nbsp;&nbsp; - 🔭 Working in personal projects.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 🫰 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
+&nbsp;&nbsp;&nbsp;&nbsp; - 💕 In love with Typescript, React, NodeJS, Sequelize, Express and Firebase.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 💼 I am currently working as a senior developer at [Güell Consulting](https://www.guellconsulting.com/)
+&nbsp;&nbsp;&nbsp;&nbsp; - 💼 I am currently working as a senior developer
 
 &nbsp;&nbsp;&nbsp;&nbsp; - 🐧 Active collaborator at OSF.
 
@@ -26,6 +26,7 @@
 ## You can find me at:
 
 - [Twitter](https://twitter.com/marcdecline)
+- [Instagram](https://instagram.com/marcdecline)
 - [Codepen](https://codepen.io/marcdecline)
 - [StackOverflow](https://stackoverflow.com/users/6850012/marcdecline)
 
