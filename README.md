@@ -8,7 +8,7 @@
    
 &nbsp;&nbsp;&nbsp;&nbsp; - 🔭 Working in personal projects.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 💕 In love with Typescript, Vue, PHP, NodeJs, Express and Firebase.
+&nbsp;&nbsp;&nbsp;&nbsp; - 💕 In love with Typescript, React, Mongo, NodeJs, Express and Firebase.
 
 &nbsp;&nbsp;&nbsp;&nbsp; - 💼 I am currently working as a senior developer
 
