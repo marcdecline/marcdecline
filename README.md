@@ -8,11 +8,11 @@
    
 &nbsp;&nbsp; - 🔭 Working in personal projects.
 
-&nbsp;&nbsp; - 💕 In love with Typescript, React, Mongo, NodeJs, Express and Firebase.
+&nbsp;&nbsp; - 💕 In love with Firebase, Angular, Symfony and Node.
 
 &nbsp;&nbsp; - 💼 I am currently working as a senior developer
 
-&nbsp;&nbsp; - 🐕 And the most important thing, these two little monsters on the left are Mus and Sam.
+&nbsp;&nbsp; - 🐕 These two little monsters on the left are Mus and Sam.
 
 
 <br /><br /><br /><br />
