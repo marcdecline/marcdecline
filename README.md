@@ -6,20 +6,20 @@
 
 
    
-&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 Working in personal projects.
+&nbsp;&nbsp; - 🔭 Working in personal projects.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 💕 In love with Typescript, React, Mongo, NodeJs, Express and Firebase.
+&nbsp;&nbsp; - 💕 In love with Typescript, React, Mongo, NodeJs, Express and Firebase.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 💼 I am currently working as a senior developer
+&nbsp;&nbsp; - 💼 I am currently working as a senior developer
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 🐕 And the most important thing, these two little monsters on the left are Mus and Sam.
+&nbsp;&nbsp; - 🐕 And the most important thing, these two little monsters on the left are Mus and Sam.
 
 
 <br /><br /><br /><br />
 
 ## Contact Me
 
-- 📫 **marcdecline@gmail.com** 
+- 📫 **marcdecline@riseup.net** 
 
 ## You can find me at:
 
