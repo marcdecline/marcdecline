@@ -8,7 +8,7 @@
    
 &nbsp;&nbsp; - 🔭 Working in personal projects.
 
-&nbsp;&nbsp; - 💕 In love with Firebase, Angular, Symfony and Node.
+&nbsp;&nbsp; - 💕 In love with Firebase, Angular and Symfony.
 
 &nbsp;&nbsp; - 💼 I am currently working as a senior developer
 
